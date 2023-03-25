@@ -9,7 +9,7 @@ Here to share knowledge, code, tools etc.
 
 ## Certifications
 
-- OSCP, CRTO, CISSP, CRTE, SSCP, CEH
+- OSCP, CRTO II, CRTO, CISSP, CRTE, SSCP, CEH
 
 ## Contact
 
